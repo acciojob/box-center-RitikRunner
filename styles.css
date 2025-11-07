@@ -2,10 +2,10 @@
 .d1{
 display: flex;
 align-content: center;
-align-items: center;	
+align-items: center;
 justify-content: center;
 height: 100vh;	
-border-top-width: 2px;	
+border-top-width: 2px solid black;	
 }
 .square{
  width: 200px;
@@ -14,7 +14,6 @@ border-top-width: 2px;
   border: 2px black solid;
   align-items: center;
   justify-content: center;
-  /* border-top-width: 2px; */
   display: flex;	
   color: purple	
 }
