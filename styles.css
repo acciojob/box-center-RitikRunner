@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.d1{
+display: flex;
+align-content: center;
+justify-content: center;
+height: 100vh;	
+}
+.square{
+ width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  border: 2px black solid;
+  border-radius: 0;
+  align-items: center;
+  justify-content: center;
+  display: flex;	
+  color: purple	
+}
