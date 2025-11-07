@@ -14,7 +14,7 @@ border-top-width: 2px;
   border: 2px black solid;
   align-items: center;
   justify-content: center;
-  border-top-width: 2px;
+  /* border-top-width: 2px; */
   display: flex;	
   color: purple	
 }
